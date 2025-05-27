@@ -1,19 +1,6 @@
 {
-  "bb_sync_version": "1.0",
-  "name": "7054318996:AAHI3g05w0GkX5eTY596tYmzZXorPUpHuSU",
-  "commands": [
-    {
-      "name": "start",
-      "code": "./commands/start.js"
-    },
-    {
-      "name": "get_token",
-      "code": "./commands/get_token.js"
-    },
-    {
-      "name": "verify",
-      "code": "./commands/verify.js"
-    }
-  ]
+  "bb_sync_version":"1.0",
+  "name":"AphroNaughtyBot",
+  "csv_url":"https://docs.google.com/spreadsheets/d/1eNv4Pv72Dz97bVmySaC4uPvCRCComJTVGyzNg9N7AtE/edit?gid=0#gid=0",
+  "git_remote":"git@github.com:prajin4105/telegrambot"
 }
-
