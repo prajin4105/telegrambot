@@ -1,0 +1,17 @@
+{
+  "name": "7054318996:AAFtEbm2eVw1ithLNRZXcbrq6v13l5ChAW8",
+  "commands": [
+    {
+      "name": "start",
+      "code": "./commands/start.js"
+    },
+    {
+      "name": "get_token",
+      "code": "./commands/get_token.js"
+    },
+    {
+      "name": "verify",
+      "code": "./commands/verify.js"
+    }
+  ]
+}
