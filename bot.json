@@ -1,7 +1,7 @@
 {
   "name": "7054318996:AAFtEbm2eVw1ithLNRZXcbrq6v13l5ChAW8",
   "commands": [
-    {
+    {  "bb_sync_version": "1.0",
       "name": "start",
       "code": "./commands/start.js"
     },
